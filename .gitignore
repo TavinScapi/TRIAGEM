@@ -2,6 +2,7 @@
 
 !/.gitignore
 !/tbsystem.py
+!/README.md
 !/dist/
 
 !/dist/**
