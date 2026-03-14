@@ -1,4 +1,4 @@
-# TB System - Triagem Automática de NF
+# TB System - Triagem Bot System
 
 Um sistema desktop em Python com interface `customtkinter` para monitorar e triagem automática de notas fiscais recebidas por e-mail.
 
